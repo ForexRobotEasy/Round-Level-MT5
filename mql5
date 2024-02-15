@@ -1,0 +1,44 @@
+
+//+------------------------------------------------------------------+
+//|                                           Round Level MT5.mq5   |
+//|                      Copyright 2021, Forex Robot Easy Team       |
+//|                                             forexroboteasy.com   |
+//+------------------------------------------------------------------+
+#property copyright 'Copyright 2021, Forex Robot Easy Team'
+#property link      'forexroboteasy.com'
+
+//+------------------------------------------------------------------+
+//| Expert initialization function                                   |
+//+------------------------------------------------------------------+
+int OnInit()
+{
+   // Add necessary initialization code here
+
+   return(INIT_SUCCEEDED);
+}
+
+//+------------------------------------------------------------------+
+//| Expert deinitialization function                                 |
+//+------------------------------------------------------------------+
+void OnDeinit(const int reason)
+{
+   // Add necessary deinitialization code here
+}
+
+//+------------------------------------------------------------------+
+//| Expert tick function                                             |
+//+------------------------------------------------------------------+
+void OnTick()
+{
+   // Add necessary code to identify round number levels
+   
+   // Add necessary code to visualize round number levels
+   
+   // Add necessary code to implement alert and notification system
+   
+   // Add necessary code to handle compatibility and performance
+   
+   // Add necessary code to handle logical conclusion
+}
+
+//+------------------------------------------------------------------+
